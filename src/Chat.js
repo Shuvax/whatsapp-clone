@@ -63,7 +63,7 @@ function Chat() {
                 <div className="chat__headerInfo">
                     <h3>{roomName}</h3>
                     <p>
-                        last seen{" "}{new Date(messages[messages.length - 1]?.timestamp?.toDate()).toUTCString()}
+                        last seen{" "}{ messages.length ? new Date(messages[messages.length - 1]?.timestamp?.toDate()).toUTCString() : 'unknown' }
                     </p>
                 </div>
                 <div className="chat__headerRight">
