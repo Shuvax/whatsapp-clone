@@ -9,4 +9,4 @@
 
 Hosted on Firebase: https://whatsapp-clone-16657.web.app/
 
-![Whatsapp Clone App](/whatsapp-app.png)
+![Whatsapp Clone App](/src/whatsapp-app.png)
