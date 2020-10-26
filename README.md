@@ -11,5 +11,6 @@ Hosted on Firebase: https://whatsapp-clone-16657.web.app/
 
 
 <p>
+    <img src="src/whatsapp_google_auth.png" />
     <img src="src/whatsapp_app.png" width="1200" height="700" />
 </p>
