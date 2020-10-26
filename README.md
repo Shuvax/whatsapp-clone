@@ -6,9 +6,11 @@
 
 #### Created using React Hooks such as useContext and useReducer
 
+<br />
 
 Hosted on Firebase: https://whatsapp-clone-16657.web.app/
 
+<br />
 
 <p>
     <img src="src/whatsapp_google_auth.png" />
