@@ -7,8 +7,6 @@
 #### Created using React Hooks such as useContext and useReducer
 
 
-
-
 Hosted on Firebase: https://whatsapp-clone-16657.web.app/
 
 
